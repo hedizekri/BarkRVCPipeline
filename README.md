@@ -1,7 +1,7 @@
 # 🌟 Bark-RVC Integration Pipeline
 ## 📋 Project Overview
 
-The Bark-RVC Integration Pipeline is an innovative 🚀 tool designed to seamlessly merge the capabilities of two cutting-edge projects: Bark and RVC. This pipeline aims to revolutionize the field of voice cloning and text-to-speech (TTS) technology, especially for the French language.
+The Bark-RVC Integration Pipeline is an innovative tool designed to seamlessly merge the capabilities of two cutting-edge projects: Bark and RVC. This pipeline aims to revolutionize the field of voice cloning and text-to-speech (TTS) technology, especially for the French language.
 
 ### 🎤 Bark: A Multilingual Text-to-Audio Model
 
