@@ -1,13 +1,6 @@
-/output
-/rvc
-/venv
-/.venv
-/rvc_voices
-
-*.wav
-*.whl
-*.7z
+/src
+/bark
 
 hubert_base.pt
 rmvpe.pt
-rvc.yaml
+bark-rvc-perso.py
