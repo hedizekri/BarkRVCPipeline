@@ -1,7 +1,7 @@
 # 🌟 Bark-RVC Integration Pipeline
 ## 📋 Project Overview
 
-The Bark-RVC Integration Pipeline is an innovative tool designed to seamlessly merge the capabilities of two cutting-edge projects: Bark and RVC. This pipeline aims to revolutionize the field of voice cloning and text-to-speech (TTS) technology, especially for the French language.
+The Bark-RVC Integration Pipeline is an innovative 🚀 tool designed to seamlessly merge the capabilities of two cutting-edge projects: Bark and RVC. This pipeline aims to revolutionize the field of voice cloning and text-to-speech (TTS) technology, especially for the French language.
 
 ### 🎤 Bark: A Multilingual Text-to-Audio Model
 
@@ -18,6 +18,62 @@ This project is inspired by JarodMica's "rvc-tts-pipeline", which originally use
 ### 🎯 Objectives
 
 Our goal is to provide a robust, efficient pipeline that combines the strengths of Bark's multilingual TTS capabilities with RVC's voice cloning technology. This integration is particularly geared towards enhancing French language TTS, addressing a significant gap in the current technology landscape.
+
+### Audio Generation Process
+
+#### English Male Voice
+- **After Bark**: Generates natural-sounding English male voice from text input.
+  - File: `audio_examples/english_male_after_bark.wav`
+  - <audio controls>
+      <source src="audio_examples/english_male_after_bark.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+- **After Bark and RVC**: Enhances Bark audio with RVC for more authentic voice characteristics.
+  - File: `audio_examples/english_male_after_bark_and_rvc.wav`
+  - <audio controls>
+      <source src="audio_examples/english_male_after_bark_and_rvc.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+
+#### French Female Voice
+- **After Bark**: Generates natural-sounding French female voice from text input.
+  - File: `audio_examples/french_female_after_bark.wav`
+  - <audio controls>
+      <source src="audio_examples/french_female_after_bark.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+- **After Bark and RVC**: Enhances Bark audio with RVC for more authentic voice characteristics.
+  - File: `audio_examples/french_female_after_bark_and_rvc.wav`
+  - <audio controls>
+      <source src="audio_examples/french_female_after_bark_and_rvc.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+
+### 🎧 Audio Examples
+
+#### English Male Voice
+- [After Bark Process](audio_examples/english_male_after_bark.wav)
+  - <audio controls>
+      <source src="audio_examples/english_male_after_bark.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+- [After Bark and RVC Process](audio_examples/english_male_after_bark_and_rvc.wav)
+  - <audio controls>
+      <source src="audio_examples/english_male_after_bark_and_rvc.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+
+#### French Female Voice
+- [After Bark Process](audio_examples/french_female_after_bark.wav)
+  - <audio controls>
+      <source src="audio_examples/french_female_after_bark.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+- [After Bark and RVC Process](audio_examples/french_female_after_bark_and_rvc.wav)
+  - <audio controls>
+      <source src="audio_examples/french_female_after_bark_and_rvc.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
 
 ### ⚠️ Usage and Disclaimer
 
