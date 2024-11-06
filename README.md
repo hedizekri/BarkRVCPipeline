@@ -55,9 +55,9 @@ conda create -n bark-rvc-pipeline python=3.8
 conda activate bark-rvc-pipeline
 ```
 
-1. Create a "bark-rvc" with the project's content and use it as a root directory.
+1. Create a "BarkRVCPipeline" folder with the project's content and use it as a root directory.
 ```
-git clone https://github.com/hedizekri/bark-rvc.git
+git clone https://github.com/hedizekri/BarkRVCPipeline.git
 ```
 
 2. Install the required version of pytorch based on your processing environment. Find the correct version on: https://pytorch.org/get-started/locally/ (choose Nightly build for Mac M1/M2).
